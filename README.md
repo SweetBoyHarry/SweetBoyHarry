@@ -1,6 +1,6 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
-<h1 align="center">Hi <img src="https://github.com/PratheekXD/PratheekXD/blob/d23cd9bacb47d90d99c9ecdb0bf7b7228a08e73d/Assets/Hi.gif" width="29px">, I'm SweetBoyHarry</h1>
+<h1 align="center">𝙃𝙞 <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="29px"> , 𝙄'𝙢 𝙎𝙬𝙚𝙚𝙩𝘽𝙤𝙮𝙃𝙖𝙧𝙧𝙮</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Telegram, Termux**
 ### **ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ**
-[![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Sweet_boy_Harry) 
+[![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SweetBoyHarry)
 <br>
 
 - 📫 How to reach me **peterparker74588@gmail.com**
