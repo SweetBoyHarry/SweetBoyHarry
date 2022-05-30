@@ -1,4 +1,4 @@
-[![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 
 <h1 align="center">Hi 👋, I'm SweetBoyHarry</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -12,6 +12,9 @@
 - 🌱 I’m currently learning **Coding, Telegram bot making and many more**
 
 - 💬 Ask me about **Telegram, Termux**
+### **ᴄᴏɴᴛᴀᴄᴛ ᴡɪᴛʜ ᴍᴇ**
+[![ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Sweet_boy_Harry) 
+<br>
 
 - 📫 How to reach me **peterparker74588@gmail.com**
 
